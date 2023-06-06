@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello 👋 I am currently a rising junior at the University of Maryland persuing a major in computer science and minor in creative writing. 
+
+📫 email: mweckel@terpmail.umd.edu
+(She/Her)
