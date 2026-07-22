@@ -20,3 +20,4 @@ Hello! I'm a Software Engineer based in Arlington, VA, passionate about building
 I'm currently a Software Engineer I at CoStar Group, where I build backend systems and APIs for large-scale enterprise applications. Outside of work, you can find me coaching at Solidcore, working out, and exploring new cafes and restarants! 
 
 📫 email: mia3weckel@gmail.com
+🤝 linkedIn: https://github.com/miaelenna 
