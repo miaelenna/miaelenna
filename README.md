@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello 👋 I am currently a rising junior at the University of Maryland persuing a major in computer science and minor in creative writing. 
+Hello! I'm a Software Engineer based in Arlington, VA, passionate about building products that solve real problems.
 
-📫 email: mweckel@terpmail.umd.edu
-(She/Her)
+I'm currently a Software Engineer I at CoStar Group, where I build backend systems and APIs for large-scale enterprise applications. Outside of work, you can find me coaching at Solidcore, working out, and exploring new cafes and restarants! 
+
+📫 email: mia3weckel@gmail.com
